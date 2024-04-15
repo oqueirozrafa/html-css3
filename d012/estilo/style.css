@@ -20,7 +20,6 @@ html, body {
     min-height: 100vh;
     background-color: darkgray;
     font-family: var(--fonte1);
-    font-size: 4em;
 }
 
 header {
@@ -33,6 +32,7 @@ header > h1 {
     padding: 50px;
     font-family: var(--fonte2);
     font-variant: small-caps;
+    font-size: 4em;
 }
 
 header > p {
